@@ -1,0 +1,70 @@
+body {
+    /* padding-top: 80px; */
+    font-family: 'Poppins', sans-serif;
+  }
+  .my {
+    color: darkgrey;
+  }
+  
+  .blog {
+    color: #ed7966;
+  }
+   
+  .navbar-nav .nav-link {
+    color: darkgrey !important;
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #ed7966 !important;
+  }
+
+  .container mt-4 {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .heading {
+    padding-top: 80px; 
+    text-align: left;
+    color: #141850;
+  }
+
+  .subheading {
+    padding-top: 10px; 
+    padding-bottom: 80px;
+    text-align: left;
+    color: #ed7966;
+  }
+
+  .btn {
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: #ed7966;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 4px;
+  }
+  
+  .btn:hover {
+    background-color: #ed7966;
+  }
+  
+  .heading-new {
+    padding-top: 20px; 
+    text-align: left;
+    color: #141850;
+  }
+
+  .heading-about {
+    padding-bottom: 30px; 
+    text-align: left;
+    color: #141850;
+  }
+
+  .card-img {
+    height: 100%;
+    object-fit: cover;
+
+  }
+  
